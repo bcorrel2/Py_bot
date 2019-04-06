@@ -87,10 +87,10 @@ def createTweet():
 def addTweet():
     # Function for adding tweet to tweets.txt
     
-    print 'Enter Your Tweet ("..."):'
+    print 'Enter Your Tweet:'
     
     try:
-        tweet = input("Tweet: ")
+        tweet = raw_input("Tweet: ")
         with open('tweets.txt', 'a') as tweet_file:
             tweet_file.write('\n' + tweet + '\n')
         
