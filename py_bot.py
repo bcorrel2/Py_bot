@@ -8,10 +8,10 @@ import time, tweepy, random, string
 
 #--------------Access Keys----------------#
 
-consumer_key = 'SgPN7R5Ili5c5Cvk37bmwfADB'
-consumer_secret = 'Ben9qS5eyHd7H10JyrQZJ57pxUI8lXD1ifHXqsPpww7wXsu38o'
-token_key = '852938638803566592-6FV88lDJwOVbXveYgnaCUVx4pi4Vmdj'
-token_secret = 'e7kS3dsZiOX77Opb4lxqQ3cNz98cx0CS0c5LUzsyDHqPL'
+consumer_key = 'Enter-Your-Keys-Here'
+consumer_secret = 'Enter-Your-Keys-Here'
+token_key = 'Enter-Your-Keys-Here'
+token_secret = 'Enter-Your-Keys-Here'
 
 # Authenticate with Twitter
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
