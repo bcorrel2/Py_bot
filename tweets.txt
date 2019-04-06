@@ -1,0 +1,23 @@
+@IllinoisCS What do you call 8 Hobbits? A Hobbyte.
+
+@IllinoisCS How many computer programmers does it take to change a light bulb? None, that's a hardware problem. 
+
+@IllinoisCS A programmer's wife calls and says she needs milk, and if they have fresh eggs, buy a dozen. He buys 12 gallons of milk.
+
+@IllinoisCS There are 10 types of people in the world - those who understand binary, and those who don't.
+
+@IllinoisCS Knock, knock. Race condition. Who’s there.
+
+@IllinoisCS In order to understand recursion you must first understand recursion.
+
+@IllinoisCS In Canadian hexadecimal, why is 6 afraid of 7? Because 7 8 9 A?
+
+@IllinoisCS Why do Java programmers wear glasses? Because they don’t C#!
+
+@IllinoisCS Why did the programmer quit his job? Because he didn’t get arrays.
+
+@IllinoisCS What do you call a collection that has no methods and doesn’t do anything? A listless list.
+
+@IllinoisCS There’s no place like 127.0.0.1
+
+This is a test tweet
