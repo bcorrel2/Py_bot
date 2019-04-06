@@ -19,5 +19,3 @@
 @IllinoisCS What do you call a collection that has no methods and doesn’t do anything? A listless list.
 
 @IllinoisCS There’s no place like 127.0.0.1
-
-This is a test tweet
